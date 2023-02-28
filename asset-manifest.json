@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AB-san/Contact-App.git/static/css/main.abd64e84.css",
-    "main.js": "/AB-san/Contact-App.git/static/js/main.8b80d78f.js",
-    "index.html": "/AB-san/Contact-App.git/index.html",
-    "main.abd64e84.css.map": "/AB-san/Contact-App.git/static/css/main.abd64e84.css.map",
-    "main.8b80d78f.js.map": "/AB-san/Contact-App.git/static/js/main.8b80d78f.js.map"
+    "main.css": "/AB-san/Contact-App/static/css/main.abd64e84.css",
+    "main.js": "/AB-san/Contact-App/static/js/main.8b80d78f.js",
+    "index.html": "/AB-san/Contact-App/index.html",
+    "main.abd64e84.css.map": "/AB-san/Contact-App/static/css/main.abd64e84.css.map",
+    "main.8b80d78f.js.map": "/AB-san/Contact-App/static/js/main.8b80d78f.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
